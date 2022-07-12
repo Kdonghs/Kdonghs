@@ -2,4 +2,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimdhs)](https://solved.ac/kimdhs/)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kdonghs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/{icons}?style={style}&logo={logo_name}&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
