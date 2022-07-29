@@ -30,4 +30,5 @@
 
 # History
 * algorithm solve 22.05.03 ~
-* Paper legacy project(asp to java(Spring)) 22.03.07 ~ 22.07.12
+* Paper legacy project(asp to java(Spring))(Alien Code) 22.03.07 ~ 22.07.12
+* image machine learning 22.7.12 ~
