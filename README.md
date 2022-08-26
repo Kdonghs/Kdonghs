@@ -29,6 +29,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kdonghs&layout=compact)](https://github.com/Kdonghs)
 
 # History
+* kangwon University 18.03 ~
 * algorithm solve 22.05.03 ~
-* Paper legacy project(asp to java(Spring))(Alien Code) 22.03.07 ~ 22.07.12
-* image machine learning 22.7.12 ~
+* computer database lab 22.03 ~
+ - thesis management legacy project(asp to java(Spring))(Alien Code) 22.03.07 ~ 22.07.12
+ - Evaluation of indoor autonomous driving shooting datasets(lidar, camera) and machine learning study 22.7.12 ~
