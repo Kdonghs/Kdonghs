@@ -35,4 +35,5 @@
 * algorithm solve 22.05.03 ~
 * computer database lab 22.03 ~
  - thesis management legacy project(asp to java(Spring))(Alien Code) 22.03.07 ~ 22.07.12
- - Evaluation of indoor autonomous driving shooting datasets(lidar, camera) and machine learning study 22.7.12 ~
+ - Evaluation of indoor autonomous driving shooting datasets(lidar, camera) and machine learning study 22.7.12 ~ 22.12.31
+ - Pre-processing of student data and creating a company recommendation model based on the student's course history 23.2.21 ~
