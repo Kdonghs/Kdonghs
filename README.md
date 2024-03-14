@@ -31,11 +31,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kdonghs&layout=compact)](https://github.com/Kdonghs)
 
 # History
-* kangwon University 18.03 ~
-* algorithm solve 22.05.03 ~
-* computer database lab 22.03 ~
- - thesis management legacy project(asp to java(Spring))(Alien Code) 22.03.07 ~ 22.07.12
- - Evaluation of indoor autonomous driving shooting datasets(lidar, camera) and machine learning study 22.07.12 ~ 22.12.31
- - Pre-processing of student data and creating a company recommendation model based on the student's course history 23.02.21 ~
- - CMS (Conference Management System) backend develop and study 23.03.03 ~
-* capston project 23.03.02 ~
+ kangwon University 18.03 ~ 24.08
+ 
+ <br>algorithm solve 22.05.03 ~
+ <br>&nbsp;-https://github.com/Kdonghs/algorithm
+ 
+ <br>database lab 22.03 ~ 24.02
+ <br>&nbsp;-Academic paper management legacy program migration project(asp to java(Spring MVC + mybaits))(private) 22.03.07 ~ 22.07.12
+ <br>&nbsp;-Learning and evaluation after preprocessing of autonomous driving observation datasets(LIDAR, camera)(private) 22.07.12 ~ 22.12.31
+ <br>&nbsp;-Pre-processing of student data and creating a company recommendation model based on the student's course history(private) 23.02.21 ~ 24.02.15
+ <br>&nbsp;-CMS (Conference Management System) backend develop(private) 23.03.03 ~
+ 
+ <br>capston team project 23.03.02 ~ 23.08.17
+ <br>&nbsp;-https://github.com/SdKfz2/caps23 (private, backend code)
+ <br>&nbsp;-https://github.com/now1256/Homepage (private, frontend code)
+   
