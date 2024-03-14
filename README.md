@@ -32,19 +32,30 @@
 
 # History
  <b>kangwon University 18.03 ~ 24.08</b>
- <br>&nbsp;Requirements-analysis-project 22.03.13 ~ 23.05.27
- <br>&nbsp;&nbsp;-https://github.com/Kdonghs/Requirements-analysis-project
- 
- <br>&nbsp;algorithm solve 22.05.03 ~
- <br>&nbsp;&nbsp;-https://github.com/Kdonghs/algorithm
+
+ <br>&nbsp;ProgrammingLanguages-assignments 22.03.07 ~ 23.06.11
+ <br>&nbsp;&nbsp;-https://github.com/Kdonghs/ProgrammingLanguages-Scala-
  
  <br>&nbsp;database lab 22.03 ~ 24.02
  <br>&nbsp;&nbsp;-Academic paper management legacy program migration project(asp to java(Spring MVC + mybaits))(private) 22.03.07 ~ 22.07.12
  <br>&nbsp;&nbsp;-Learning and evaluation after preprocessing of autonomous driving observation datasets(LIDAR, camera)(private) 22.07.12 ~ 22.12.31
  <br>&nbsp;&nbsp;-Pre-processing of student data and creating a company recommendation model based on the student's course history(private) 23.02.21 ~ 24.02.15
  <br>&nbsp;&nbsp;-CMS (Conference Management System) backend develop(private) 23.03.03 ~
+
+ <br>&nbsp;algorithm solve 22.05.03 ~
+ <br>&nbsp;&nbsp;-https://github.com/Kdonghs/algorithm
  
+ <br>&nbsp;stock-management-service 22.09.24 ~ 23.02.12
+ <br>&nbsp;&nbsp;-https://github.com/Kdonghs/stock-management-service
+
  <br>&nbsp;capston team project 23.03.02 ~ 23.08.17
  <br>&nbsp;&nbsp;-https://github.com/SdKfz2/caps23 (private, backend code)
  <br>&nbsp;&nbsp;-https://github.com/now1256/Homepage (private, frontend code)
+ 
+ <br>&nbsp;computer-vision-assignments 23.03.02 ~ 23.05.26
+ <br>&nbsp;&nbsp;-https://github.com/Kdonghs/computer-vision
+ 
+ <br>&nbsp;Requirements-analysis-project 23.03.13 ~ 23.05.27
+ <br>&nbsp;&nbsp;-https://github.com/Kdonghs/Requirements-analysis-project
+
    
