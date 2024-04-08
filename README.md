@@ -62,4 +62,8 @@
  <br>&nbsp;Requirements-analysis-project 23.03.13 ~ 23.05.27
  <br>&nbsp;&nbsp;-https://github.com/Kdonghs/Requirements-analysis-project
 
+ 
+<br>&nbsp;kakako tech campus 2nd backend course 24.04.01 ~ 
+
+
    
